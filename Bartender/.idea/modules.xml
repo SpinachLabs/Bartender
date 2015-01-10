@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bartender.iml" filepath="$PROJECT_DIR$/Bartender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidasync-2.0.1/androidasync-2.0.1.iml" filepath="$PROJECT_DIR$/androidasync-2.0.1/androidasync-2.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gson-2.2.4/gson-2.2.4.iml" filepath="$PROJECT_DIR$/gson-2.2.4/gson-2.2.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ion-2.0.1/ion-2.0.1.iml" filepath="$PROJECT_DIR$/ion-2.0.1/ion-2.0.1.iml" />
+    </modules>
+  </component>
+</project>
+
